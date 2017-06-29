@@ -1,14 +1,19 @@
 /* CSS Document */
 body{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	text-align: center;
-	
+	width: auto;
+	background-color: #5DC0DF;
 	
 }
 
 #contentArea{
-	width: 1280;
-	color: aqua;
-	margin-left: auto;
-	margin-right: auto;
+	width: 1280px;
+	background-color:azure;
+	margin:0 auto;
+}
+
+#tl{
+	height: 80px;
+	background-color:#F8F8F8;
+	font-size: 30px;
 }
