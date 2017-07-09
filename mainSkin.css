@@ -1,8 +1,8 @@
 /* CSS Document */
 body{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif","微软雅黑";
 	width: auto;
-	background-color: #5DC0DF;
+	background-color: #5DC0DF; 
 	
 }
 
@@ -21,5 +21,22 @@ body{
 a{
 text-decoration:none;
 	outline: none;
-	
 }
+
+.head_item{
+	text-align: center;
+	line-height: 80px;
+	font-size: 25px;
+	display: inline-block;
+	color: dimgray;
+}
+
+.selected{
+	background-color: lightgray;
+}
+
+.selecting{
+	background-color:lightblue;
+}
+
+

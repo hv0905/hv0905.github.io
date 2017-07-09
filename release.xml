@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<newest>
-	<versionStr>1.0.0.0</versionStr>
+<mchx>
+	<version>1.0.0.0</version>
 	<infoLink>mchx_release_1_0_0_0.xml</infoLink>
-</newest>
+</mchx>
+<modernRedstone>
+	<version>1.0.0</version>
+	<infoLink>modernRedstone_1_0.xml</infoLink>
+</modernRedstone>
