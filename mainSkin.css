@@ -6,26 +6,31 @@ body{
 	
 }
 
-#contentArea{
-	width: 1280px;
-	background-color:azure;
-	margin:0 auto;
-}
-
-#tl{
-	height: 80px;
-	background-color:#F8F8F8;
-	font-size: 25px;
-}
-
 a{
 text-decoration:none;
 	outline: none;
 }
 
+.contentArea{
+	width: 1280px;
+	background-color:azure;
+	margin:0 auto;
+}
+
+.head_logo{
+	height: 60px;
+	float: left;
+}
+
+.tl{
+	height: 60px;
+	background-color:#F8F8F8;
+	font-size: 25px;
+}
+
 .head_item{
 	text-align: center;
-	line-height: 80px;
+	line-height: 60px;
 	font-size: 25px;
 	display: inline-block;
 	color: dimgray;
